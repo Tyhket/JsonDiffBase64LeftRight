@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gCSF5O1/j0ufGCuuf+QrVTr2Ejy439TIe4YaN6D5a9tmAN5EV4Y1SnMYg5pscNIn4CLg2GXXBKXrT9+lQgFWuw==",
+  "dgSpecHash": "sQOC5xPJDBhafcPiLKDjheabDNL66kRTWVle/H+bsOyHXcQF3KlzdmAIVtFAWskUbBTgXPWA1EqiwTRo0MBxAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Timi\\Desktop\\JsonDiffProgram\\JsonDiffProgram\\JsonDiffProgramTest\\JsonDiffProgramTest.csproj",
+  "projectFilePath": "C:\\Users\\Timi\\Desktop\\JsonDiffBase64\\JsonDiffProgramTest\\JsonDiffProgramTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Timi\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\Timi\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
